@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到Nick的展示小店
 
-You can use the [editor on GitHub](https://github.com/nickcxma/NickStore/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我是Nick，来自北京，现在美国加州上高中，业余时间我经营着这个展示小店，可以帮北京的同学提供购买美国商品和服务的信息，也会跟大家分享我在美国生活和学习的经历，欢迎大家跟我交流.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的微信是wesley-ma.
 
-### Markdown
+### 鞋子
+同学们肯定都喜欢运动，一双好的鞋子是运动的最好的搭档，我在美国喜欢穿耐克的运动鞋，既舒适又方便，当然也有很多其它牌子，大家都有各自的喜好，下面我列了一些在美国常见的品牌和网站，供大家参考。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickcxma/NickStore/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[耐克(Nike)](https://www.nike.com)
+[新百伦(New Banlance)](https://www.newbalance.com)
+[阿迪达斯(Adidas)](https://www.adidas.com)
+[斯凯奇(Skechers)](https://www.skechers.com)
+[匡威(Converse)](https://www.converse.com)
